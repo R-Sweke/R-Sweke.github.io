@@ -9,8 +9,8 @@ nav_order: 6
 
 AIMS offers an incredible Pan-African research environment, steps away from the beach in Muizenberg, Cape Town. I am slowly building a research group at AIMS, focused primarily on mathematical questions at the intersection of quantum computing, machine learning, cryptography and theoretical computer science. If you are potentially interested in either a Ph.D. or post-doc position, there are a variety of potential opportunities:
 
-- I now have [two PhD positions](https://aims.ac.za/wp-content/uploads/sites/5/2025/07/DAAD-Ph.D.-Advertisement.pdf) available, with a target start date of 1st of January 2026. Please see the linked advertisement for details and instructions for applying.
-- I also have [one postdoctoral fellowship](https://aims.ac.za/wp-content/uploads/sites/5/2025/07/DAAD-Postdoctoral-Fellowship-Advertisement.pdf), also with a target start date of 1st of January 2026. Again, please see the linked advertisement for details.
+<!-- - I now have [two PhD positions](https://aims.ac.za/wp-content/uploads/sites/5/2025/07/DAAD-Ph.D.-Advertisement.pdf) available, with a target start date of 1st of January 2026. Please see the linked advertisement for details and instructions for applying.
+- I also have [one postdoctoral fellowship](https://aims.ac.za/wp-content/uploads/sites/5/2025/07/DAAD-Postdoctoral-Fellowship-Advertisement.pdf), also with a target start date of 1st of January 2026. Again, please see the linked advertisement for details. -->
 
 If you are based in South Africa:
 
