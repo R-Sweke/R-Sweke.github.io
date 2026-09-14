@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper "Efficient Quantum Gibbs sampling with local circuits" appeared in print today in [PRX Quantum](https://journals.aps.org/prxquantum/abstract/10.1103/m5zb-z4nn). 
+Our paper ["Efficient Quantum Gibbs sampling with local circuits"]((https://journals.aps.org/prxquantum/abstract/10.1103/m5zb-z4nn)) appeared in print today in PRX Quantum.

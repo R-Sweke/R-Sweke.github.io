@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper "Quantum kernels through the lens of entangled tensor kernels" appeared in print today in [Physical Review Research](https://journals.aps.org/prresearch/abstract/10.1103/c53t-rybw). 
+Our paper ["Quantum kernels through the lens of entangled tensor kernels"](https://journals.aps.org/prresearch/abstract/10.1103/c53t-rybw) appeared in print today in Physical Review Research.
